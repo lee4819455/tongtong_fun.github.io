@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.ea61f788.css",
-    "main.js": "./static/js/main.cc71bba5.js",
-    "static/js/453.3fb49c7c.chunk.js": "./static/js/453.3fb49c7c.chunk.js",
-    "index.html": "./index.html",
-    "main.ea61f788.css.map": "./static/css/main.ea61f788.css.map",
-    "main.cc71bba5.js.map": "./static/js/main.cc71bba5.js.map",
-    "453.3fb49c7c.chunk.js.map": "./static/js/453.3fb49c7c.chunk.js.map"
+    "main.css": "/tongtong_fun.github.io/static/css/main.ea61f788.css",
+    "main.js": "/tongtong_fun.github.io/static/js/main.d3ab655a.js",
+    "static/js/453.3fb49c7c.chunk.js": "/tongtong_fun.github.io/static/js/453.3fb49c7c.chunk.js",
+    "index.html": "/tongtong_fun.github.io/index.html",
+    "main.ea61f788.css.map": "/tongtong_fun.github.io/static/css/main.ea61f788.css.map",
+    "main.d3ab655a.js.map": "/tongtong_fun.github.io/static/js/main.d3ab655a.js.map",
+    "453.3fb49c7c.chunk.js.map": "/tongtong_fun.github.io/static/js/453.3fb49c7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea61f788.css",
-    "static/js/main.cc71bba5.js"
+    "static/js/main.d3ab655a.js"
   ]
 }
